@@ -1,0 +1,16 @@
+{
+  "name": "PROMPTEDSITE Coconut Co.",
+  "short_name": "PROMPTEDSITE",
+  "description": "100% Raw Cold-Pressed Coconut Water",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF6F0",
+  "theme_color": "#463721",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
