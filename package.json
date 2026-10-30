@@ -1,26 +1,40 @@
 {
-  "name": "palmo-next",
-  "version": "0.1.0",
+  "name": "promptedsite-coconut-experience",
+  "version": "1.0.0",
+  "type": "module",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint src --ext .ts,.tsx --max-warnings 0",
+    "test": "node scripts/test-browser.mjs",
+    "assets:verify": "node scripts/assets-r2.mjs verify",
+    "preview:package": "node scripts/preview-package.mjs",
+    "source:package": "node scripts/package-source.mjs"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.5"
+    "@react-three/drei": "^10.7.9",
+    "@react-three/fiber": "^9.8.2",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "three": "0.185.0"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@babel/parser": "^7.28.0",
+    "@playwright/test": "^1.64.1",
     "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@typescript-eslint/eslint-plugin": "^8.46.2",
+    "@typescript-eslint/parser": "^8.46.2",
+    "@vitejs/plugin-react": "^5.1.1",
     "eslint": "^8",
-    "eslint-config-next": "14.2.5"
+    "pixelmatch": "^7.1.0",
+    "pngjs": "^7.0.0",
+    "prettier": "^3.5.3",
+    "typescript": "^5",
+    "vite": "^7.3.7"
   }
 }

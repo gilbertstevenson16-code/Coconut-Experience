@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "project": "coconut-experience",
+  "release": "525778aa5273e25b",
+  "prefix": "templates/coconut-experience/releases/525778aa5273e25b",
+  "baseUrl": "https://cdn.promptedsite.com/templates/coconut-experience/releases/525778aa5273e25b",
+  "totalBytes": 12552083,
+  "files": {
+    "branding/apple-touch-icon.png": {
+      "bytes": 3145,
+      "sha256": "80769b1fb2659cf8f2e0fadd2bf94ca96dc783ffbe26dc964e95d8f7a352537f",
+      "contentType": "image/png"
+    },
+    "branding/favicon.ico": {
+      "bytes": 14613,
+      "sha256": "adde8dad2354bb78ff1cc5999286031051399b3b54a8550088dc4a86e2043e86",
+      "contentType": "image/x-icon"
+    },
+    "branding/icon-192.png": {
+      "bytes": 3145,
+      "sha256": "80769b1fb2659cf8f2e0fadd2bf94ca96dc783ffbe26dc964e95d8f7a352537f",
+      "contentType": "image/png"
+    },
+    "branding/icon.svg": {
+      "bytes": 342,
+      "sha256": "cd17681577612859455fbd6e14b6983aa8589370d5e984f50381ca22cd14c85e",
+      "contentType": "image/svg+xml"
+    },
+    "environments/empty_warehouse_01_1k.hdr": {
+      "bytes": 1672140,
+      "sha256": "9b3d611cadc32c3a0c7e084ce5611c0650293881c4a041e7fa13748fe0dc6451",
+      "contentType": "image/vnd.radiance"
+    },
+    "fonts/inter-100-900-latin.woff2": {
+      "bytes": 48432,
+      "sha256": "c940764593d0fe5d596be327ca7558855e018039fb78509aa21921fd3644c3e4",
+      "contentType": "font/woff2"
+    },
+    "fonts/khand-300-latin.woff2": {
+      "bytes": 7364,
+      "sha256": "7ad7dbba15b5f8f07b54482a36553208c93cf6f6752bb12b1aeb33d2600ffd86",
+      "contentType": "font/woff2"
+    },
+    "fonts/khand-400-latin.woff2": {
+      "bytes": 7664,
+      "sha256": "9be15463bc5b9b5c04bba04e242e0dc68ecdd0d7c1b1f1ee2a07400096440718",
+      "contentType": "font/woff2"
+    },
+    "fonts/khand-500-latin.woff2": {
+      "bytes": 7740,
+      "sha256": "0e577a91d9ddb86dfc95532e7e35917d9f19a34bccaf1c84846dfe2da8b2e074",
+      "contentType": "font/woff2"
+    },
+    "fonts/khand-600-latin.woff2": {
+      "bytes": 7712,
+      "sha256": "7344d16b57e34692d5d45ff4df66713177d1c9ec8c9f290bdd73552048309ebd",
+      "contentType": "font/woff2"
+    },
+    "fonts/khand-700-latin.woff2": {
+      "bytes": 7616,
+      "sha256": "a4c2534f2236863b995cfae8ac3c91c614714b5c2d5697a336c772c3ce18d32a",
+      "contentType": "font/woff2"
+    },
+    "fonts/patrick-hand-400-latin.woff2": {
+      "bytes": 14224,
+      "sha256": "42156e008dd5fc3000679ff4e9ba9cbd3f417b6317c6dcbe11a12e9c87a09b28",
+      "contentType": "font/woff2"
+    },
+    "images/story/about-hero-palms.webp": {
+      "bytes": 345454,
+      "sha256": "a90cb356201bc14e075f392349361de6119d773c0ac92bc9f871eb2464960293",
+      "contentType": "image/webp"
+    },
+    "images/story/bunch-of-coconut.webp": {
+      "bytes": 214112,
+      "sha256": "3b76305769b3bcafc510191a198a6428ed9b56568ea727e79851169fa4cbaaf2",
+      "contentType": "image/webp"
+    },
+    "images/story/coconut-holding.webp": {
+      "bytes": 89832,
+      "sha256": "5470a7f4c47a92966fa76f89d645e74fa537d4310967d76b1fa77a285b4f8ec9",
+      "contentType": "image/webp"
+    },
+    "images/story/good-coconut.webp": {
+      "bytes": 120808,
+      "sha256": "277d64f052b633700566732b894dc2b90cf1d7895544f07f269dff80093a330b",
+      "contentType": "image/webp"
+    },
+    "images/story/story-cluster.webp": {
+      "bytes": 318650,
+      "sha256": "ba6906845678f31db5ae65303902a11d6961277ab01d6725f0708058c021e420",
+      "contentType": "image/webp"
+    },
+    "images/story/story-farmer.webp": {
+      "bytes": 377668,
+      "sha256": "fb9f4615d42a193c67d3caa91f3a4a314ee4dcf5eedfdfd6d720cef500cbc5e5",
+      "contentType": "image/webp"
+    },
+    "images/story/story-ground.webp": {
+      "bytes": 344634,
+      "sha256": "e314e9d80b115947c465d5c5069d10084a7bda4b125f34402b5089da26b2fc56",
+      "contentType": "image/webp"
+    },
+    "images/story/story-hanging.webp": {
+      "bytes": 262604,
+      "sha256": "85cd5d0b4bc557535a32e860e326c7e0e1615233a3eea43dc2c004cdbea042ff",
+      "contentType": "image/webp"
+    },
+    "images/story/story-sky.webp": {
+      "bytes": 468414,
+      "sha256": "0d7c4f548d2c55ef149be3f16363b823d826b47bffd9f5badc83eb74df6ec56f",
+      "contentType": "image/webp"
+    },
+    "images/story/story-table.webp": {
+      "bytes": 319132,
+      "sha256": "cb34c857d146b5f40b0d39838ea4a2508539b82ba30be4ea112c32772af5faca",
+      "contentType": "image/webp"
+    },
+    "models/can1.glb": {
+      "bytes": 162956,
+      "sha256": "896b6e19c4852e6a61a221cc379228c7f4b5c5114830e850e0206c5eb80486cb",
+      "contentType": "model/gltf-binary"
+    },
+    "models/coconut.glb": {
+      "bytes": 4651952,
+      "sha256": "9bc56e1812eb7120e6ddd06e655d63c1e70e07b928d42c4c4ab4589e2fa8d089",
+      "contentType": "model/gltf-binary"
+    },
+    "textures/cans/coconutWhite.webp": {
+      "bytes": 353668,
+      "sha256": "826805da37026f10b296be62a8725bc18f91bbdf0566a721521f9f0d35778bef",
+      "contentType": "image/webp"
+    },
+    "textures/cans/guava.webp": {
+      "bytes": 600038,
+      "sha256": "69251af5a6bf991e52cf191c84aa66de750afedd18f4aef38a1507e5761582b5",
+      "contentType": "image/webp"
+    },
+    "textures/cans/litchi.webp": {
+      "bytes": 622516,
+      "sha256": "e8a4bc63eae0c368c3f344fdd9f5ec27d80f96e889024355839b3140d56bdfcd",
+      "contentType": "image/webp"
+    },
+    "textures/cans/mango.webp": {
+      "bytes": 489954,
+      "sha256": "8fbca8659a6e2e57591e3f1327e74ce09c31c3aba80414287991927bf6209611",
+      "contentType": "image/webp"
+    },
+    "textures/cans/pineapple.webp": {
+      "bytes": 492158,
+      "sha256": "74396059e33fbcbf172befd15715408843faa064d2eb9e1b7204b62a648b3dd7",
+      "contentType": "image/webp"
+    },
+    "textures/cans/watermelon.webp": {
+      "bytes": 523396,
+      "sha256": "8869d05e58bee07a851a136e6669cd03282de6920ebb1072f74416d4ed398578",
+      "contentType": "image/webp"
+    }
+  }
+}

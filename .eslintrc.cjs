@@ -1,0 +1,1 @@
+module.exports={root:true,parser:'@typescript-eslint/parser',plugins:['@typescript-eslint'],extends:['eslint:recommended'],env:{browser:true,es2022:true},parserOptions:{sourceType:'module',ecmaVersion:'latest'},rules:{'no-unused-vars':'off'},ignorePatterns:['src/runtime/vendor/**','src/runtime/recovered/**']};
