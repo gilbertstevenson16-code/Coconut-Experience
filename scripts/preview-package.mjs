@@ -9,7 +9,7 @@ const args = process.argv.slice(2);
 const option = name => { const i = args.indexOf(name); return i < 0 ? undefined : args[i + 1]; };
 const source = option('--assets');
 const cache = path.resolve('.preview-media');
-const fallback = 'https://github.com/hiiD4vd/promptedsite-template-02/releases/download/media-' + manifest.release + '/coconut-experience-assets.zip';
+const fallback = 'https://github.com/gilbertstevenson16-code/Coconut-Experience/releases/download/media-' + manifest.release + '/coconut-experience-assets.zip';
 await fs.mkdir(cache, { recursive: true });
 async function verify(file, data) {
   const expected = manifest.files[file];

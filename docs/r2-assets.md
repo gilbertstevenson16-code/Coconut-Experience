@@ -6,7 +6,7 @@ Base: https://cdn.promptedsite.com/templates/coconut-experience/releases/525778a
 
 30 files, 12,552,083 bytes, organized under `branding/`, `fonts/`, `models/`, `textures/cans/`, `images/story/`, `environments/`. The asset manifest records sizes, SHA-256 and content types. The path mapping connects reference URLs to organized object paths.
 
-Fallback: https://github.com/hiiD4vd/promptedsite-template-02/releases/download/media-525778aa5273e25b/coconut-experience-assets.zip
+Fallback: https://github.com/gilbertstevenson16-code/Coconut-Experience/releases/download/media-525778aa5273e25b/coconut-experience-assets.zip
 
 The source ZIP excludes media binaries, Git history, credentials, node_modules and build outputs. Inline SVG markup, shaders and CSS remain source code. The separate portable preview ZIP deliberately includes all media.
 

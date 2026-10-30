@@ -1,12 +1,12 @@
 # Build and preview Coconut Experience
 
-Use the existing template at https://github.com/hiiD4vd/promptedsite-template-02, pinned version `template-v1.0.0`.
+Use the existing template at https://github.com/gilbertstevenson16-code/Coconut-Experience, pinned version `template-v1.0.1`.
 
 Ready-built preview (complete static app with local media):
-https://github.com/hiiD4vd/promptedsite-template-02/releases/download/template-v1.0.0/coconut-experience-preview.zip
+https://github.com/gilbertstevenson16-code/Coconut-Experience/releases/download/template-v1.0.1/coconut-experience-preview.zip
 
 Clean source archive:
-https://github.com/hiiD4vd/promptedsite-template-02/releases/download/template-v1.0.0/coconut-experience-source.zip
+https://github.com/gilbertstevenson16-code/Coconut-Experience/releases/download/template-v1.0.1/coconut-experience-source.zip
 
 If your environment can download and host static files but cannot install/build packages, use the ready-built preview. Extract it and serve its index.html through your supported preview host with SPA fallback; do not treat opening a ZIP or a file:// URL as a working hosted preview.
 
@@ -21,7 +21,7 @@ Adapt to your environment:
 - Browser-chat AI: create a real interactive artifact with your available tools. If shell tools exist, run `npm run preview:package`; publish the complete `dist/` using supported static-file/artifact hosting with SPA routing. Keep the original implementation and media.
 
 R2 media fallback, to use automatically if CDN access is blocked:
-https://github.com/hiiD4vd/promptedsite-template-02/releases/download/media-525778aa5273e25b/coconut-experience-assets.zip
+https://github.com/gilbertstevenson16-code/Coconut-Experience/releases/download/media-525778aa5273e25b/coconut-experience-assets.zip
 
 Verify files against `src/config/assets.json`; the packaging script does this. Serve local media with the preview rather than referencing private sandbox paths. Do not replace models/textures with placeholders, use an iframe/proxy, or present a screenshot as the website. Do not request credentials or ask me to upload publicly available media.
 
