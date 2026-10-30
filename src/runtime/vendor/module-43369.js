@@ -1,3 +1,2 @@
 // Recovered from the owner-authorized reference; see docs/provenance.md.
 export default (e,t,r)=>{"use strict";let n;Object.defineProperty(r,"__esModule",{value:!0});var a={getAssetToken:function(){return o},getAssetTokenQuery:function(){return s},getDeploymentId:function(){return i},getDeploymentIdQuery:function(){return l}};for(var u in a)Object.defineProperty(r,u,{enumerable:!0,get:a[u]});function i(){return n}function l(e=!1){let t=n;return t?`${e?"&":"?"}dpl=${t}`:""}function o(){return!1}function s(e=!1){return""}"u">typeof window?(n=document.documentElement.dataset.dplId,delete document.documentElement.dataset.dplId):n=void 0};
-
