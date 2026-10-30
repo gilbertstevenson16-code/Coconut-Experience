@@ -1,8 +1,8 @@
 # Start here
 
-Read README.md, docs/r2-assets.md and docs/product-prompt.md. The documented release is `template-v1.0.0`.
+Read README.md, docs/r2-assets.md and docs/product-prompt.md. The documented release is `template-v1.0.2`.
 
-A ready-built preview is available at https://github.com/gilbertstevenson16-code/Coconut-Experience/releases/download/template-v1.0.1/coconut-experience-preview.zip. Use it when static hosting is available but package installation/build tools are not. It includes the app and verified local media; it still needs an HTTP preview host with SPA fallback.
+A ready-built preview is available at https://github.com/gilbertstevenson16-code/Coconut-Experience/releases/download/template-v1.0.2/coconut-experience-preview.zip. Use it when static hosting is available but package installation/build tools are not. It includes the app and verified local media; it still needs an HTTP preview host with SPA fallback.
 
 Deliver a user-visible interactive preview, preserving Home, Flavours, Story, original media, typography, 3D and basket. Inspect your available shell, artifact, file-serving and network tools before choosing a preview strategy.
 

@@ -8,7 +8,7 @@ Checks: `npm run typecheck`, `npm run lint`, `npm run build`. With the server ru
 
 For AI previews, read [AI_START_HERE.md](AI_START_HERE.md). `npm run preview:package` builds `dist/` with all media served locally, falling back to the pinned GitHub release if R2 is unreachable. Serve it at the origin root with SPA fallback. A remote sandbox's localhost address is not a user-visible preview.
 
-The `template-v1.0.0` GitHub release includes a ready-built portable preview and clean source ZIP. `npm run source:package` creates the source ZIP using an explicit file allowlist.
+The `template-v1.0.2` GitHub release includes a ready-built portable preview and clean source ZIP. `npm run source:package` creates the source ZIP using an explicit file allowlist.
 
 Offline media option: `npm run preview:package -- --assets /absolute/path/to/media`. Development override: `VITE_MEDIA_BASE`. No R2 credentials are needed to run the app.
 

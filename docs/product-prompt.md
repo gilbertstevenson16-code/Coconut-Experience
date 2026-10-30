@@ -1,12 +1,12 @@
 # Build and preview Coconut Experience
 
-Use the existing template at https://github.com/gilbertstevenson16-code/Coconut-Experience, pinned version `template-v1.0.1`.
+Use the existing template at https://github.com/gilbertstevenson16-code/Coconut-Experience, pinned version `template-v1.0.2`.
 
 Ready-built preview (complete static app with local media):
-https://github.com/gilbertstevenson16-code/Coconut-Experience/releases/download/template-v1.0.1/coconut-experience-preview.zip
+https://github.com/gilbertstevenson16-code/Coconut-Experience/releases/download/template-v1.0.2/coconut-experience-preview.zip
 
 Clean source archive:
-https://github.com/gilbertstevenson16-code/Coconut-Experience/releases/download/template-v1.0.1/coconut-experience-source.zip
+https://github.com/gilbertstevenson16-code/Coconut-Experience/releases/download/template-v1.0.2/coconut-experience-source.zip
 
 If your environment can download and host static files but cannot install/build packages, use the ready-built preview. Extract it and serve its index.html through your supported preview host with SPA fallback; do not treat opening a ZIP or a file:// URL as a working hosted preview.
 
